@@ -21,7 +21,7 @@ The progress bar at the top of the screen counts down in a red color, which mean
 ![Screenshot of video game with six characters visible on screen and a green progress bar at the top of the screen that is filling up](../../public/img/rest_bar.png) 
 When the timer behind the red bar runs out, the bar switches to a green color and fills back up, indicating that there is a break before the next wave. While the progress bar is green, the enemy spawning mechanism is paused so that no new enemies spawn during the downtime between waves. 
 
-# Estimarted v.s. Actual Time
+# Estimated v.s. Actual Time
 
 As stated before, developing this wave system took much longer than I had planned for it to. If anything, the way this panned out was a good reminder to ask for help when needed, as I tried to power through it myself and probably could have been more productive and efficient if I had asked a teammate for help.
 
