@@ -1,7 +1,7 @@
 ---
 title: Journal 7 - Tackling Wave Procedural Generation
 description: Starting to explore Godot curves for infinite wave generation
-data: 2026-10-12
+date: 2026-10-12
 ---
 # Goals/Tasks
 
