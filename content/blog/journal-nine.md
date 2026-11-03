@@ -1,5 +1,5 @@
 ---
-title: Jounral 9 - Skill Progression
+title: Journal 9 - Skill Progression
 description: Progression in the game has been a big question and debate, so we spent this week building quick prototypes to put them to the test.
 date: 2026-10-27
 ---
