@@ -22,3 +22,7 @@ Debugging the health system took a frustrating and surprising amount of time. Co
 # Communication
 
 Communication is going well with the group, although we're still having some disagreements over progression implementation, which we've established that we'll probably only be able to finalize after playtesting.
+
+# Gold Stars
+
+Kat did a lot of work on optimizing the skill tree set-up so that we can use recursive resources to set up skill trees. She did this fully based on my poor description of what I wanted to implement to help with that set-up.
